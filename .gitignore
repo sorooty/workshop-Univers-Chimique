@@ -1,0 +1,21 @@
+## .NET / C# gitignore
+
+# Build outputs
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docview
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+
+# OS
+Thumbs.db
+.DS_Store
